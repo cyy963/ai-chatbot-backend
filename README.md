@@ -1,11 +1,5 @@
 # AI Chatbot - Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-
 ## Description
 
 This is a backend application designed to simulate mock job interviews using Google Generative AI. It generates interview questions and provides feedback based on user input for a specified job title. This tool is intended to help users practice their interview skills and receive constructive feedback.
