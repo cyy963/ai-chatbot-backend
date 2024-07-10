@@ -6,8 +6,6 @@ This is a backend application designed to simulate mock job interviews using Goo
 
 In addition to the interviewer functionality, the application also includes a chatbot that interacts with customers, asks relevant questions, and recommends the best insurance policy type based on their responses.
 
-This backend needs to be run in conjunction with the project frontend, which is located at [AI Chatbot Frontend](https://github.com/cyy963/ai-chatbot-frontend.git).
-
 ## Features
 
 - Generate interview questions based on job title
