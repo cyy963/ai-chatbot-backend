@@ -12,7 +12,7 @@ This is a backend application designed to simulate mock job interviews using Goo
 
 In addition to the interviewer functionality, the application also includes a chatbot that interacts with customers, asks relevant questions, and recommends the best insurance policy type based on their responses.
 
-This backend needs to be run in conjunction with the project frontend, which is located at [AI Chatbot Frontend](https://github.com/nicolegunn/ai-chatbot-frontend.git).
+This backend needs to be run in conjunction with the project frontend, which is located at [AI Chatbot Frontend](https://github.com/cyy963/ai-chatbot-frontend.git).
 
 ## Features
 
@@ -29,9 +29,6 @@ This backend needs to be run in conjunction with the project frontend, which is 
 ![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ## Prerequisites
-
-![Node](https://img.shields.io/badge/Node.js-16.0.0-green)
-![npm](https://img.shields.io/badge/npm-8.0.0-red)
 
 - Node.js (v16 or later)
 - npm (v8 or later) or yarn (v1.22 or later)
@@ -60,14 +57,7 @@ This backend needs to be run in conjunction with the project frontend, which is 
    npm run dev
    ```
 6. **Clone and setup the frontend**:  
-   The backend needs to be run in conjunction with the frontend, which is located at [AI Chatbot Frontend](https://github.com/nicolegunn/ai-chatbot-frontend.git).
-
-   ```sh
-   git clone https://github.com/nicolegunn/ai-chatbot-frontend.git
-   cd ai-chatbot-frontend
-   npm install
-   npm start
-   ```
+   The backend needs to be run in conjunction with the frontend, which is located at [AI Chatbot Frontend](https://github.com/cyy963/ai-chatbot-frontend.git).
 
 ## Contributors
 
